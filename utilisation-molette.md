@@ -2,6 +2,8 @@
 
 La roulette de la souris, placée entre votre clique gauche et votre clique droit vous permet de faire défiler la page vers le bas ou vers la haut.
 
+<p align="center"><img src="molette-souris.png"></p>
+
 ## Défiler vers le haut
 
 En effectuant une action vers le haut avec votre doigt sur la molette, vous pourrez voir que la page défile vers le haut, comme lorsque vous utilisez 
@@ -22,4 +24,4 @@ Mais __ATTENTION__, si ce boutton est trop sensible, vous allez certainement cli
 
 
 C'est tout pour aujourd'hui.
-On se retrouve demain pour un nouveau tuto: "Appel automatique d'un épisode de Derrick lors de la génération d'un scrollbar horizontale"
+On se retrouve demain pour un nouveau tuto: "Appel automatique d'un épisode de Derrick lors de la génération d'une scrollbar horizontale"
